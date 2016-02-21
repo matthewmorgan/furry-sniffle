@@ -1,0 +1,14 @@
+{
+  "name": "rotate-matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rotate-matrix.js",
+  "scripts": {
+    "test": "jasmine-node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
